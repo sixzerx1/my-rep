@@ -17,5 +17,5 @@ jobs:
         python-version: '3.11'
 
     - name: Run Python Script
-      run: python .github/workflows/git.py
+      run: python /git.py
 
